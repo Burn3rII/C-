@@ -88,7 +88,7 @@ public:
      * @param complx Nombre complexe à opposer.
      * @return Opposé du nombre complexe.
      */
-    friend Complex2D operator -(const Complex2D& complx); // Opposé
+    friend Complex2D operator -(const Complex2D& complx);
 
     /**
      * @brief Multiplication de deux nombres complexes.
