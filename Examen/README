@@ -1,0 +1,5 @@
+Les .h se trouvent dans headers, les .cpp dans source.
+Le dossier other contient le KNN, non terminé.
+
+Compiler avec :
+g++ source/*.cpp main.cpp -o programme
